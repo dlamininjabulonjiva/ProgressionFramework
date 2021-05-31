@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ef93bbb4_002Dca0f_002D49f8_002Da313_002Df4ae0a4004d5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldAddTheSumToTotal" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68C4B576-288C-4D5D-93AB-3B4A1212E2A2::.NETCoreApp,Version=v3.1::MyFirstDelegate.Test.TestCalculationDelegate.ShouldAddNumberToTotal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68C4B576-288C-4D5D-93AB-3B4A1212E2A2::.NETCoreApp,Version=v3.1::MyFirstDelegate.Test.TestCalculationDelegate.ShouldMultiplyNumberNumberToTotal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68C4B576-288C-4D5D-93AB-3B4A1212E2A2::.NETCoreApp,Version=v3.1::MyFirstDelegate.Test.TestCalculationDelegate.ShouldMultiplyNumberWithTotal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::68C4B576-288C-4D5D-93AB-3B4A1212E2A2::.NETCoreApp,Version=v3.1::MyFirstDelegate.Test.TestCalculationDelegate.ShouldSubtractNumberFromTotal&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

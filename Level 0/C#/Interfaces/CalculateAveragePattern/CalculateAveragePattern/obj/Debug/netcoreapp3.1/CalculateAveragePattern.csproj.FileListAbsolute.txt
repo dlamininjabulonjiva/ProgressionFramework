@@ -1,0 +1,9 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\CalculateAveragePattern\CalculateAveragePattern\bin\Debug\netcoreapp3.1\CalculateAveragePattern.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\CalculateAveragePattern\CalculateAveragePattern\bin\Debug\netcoreapp3.1\CalculateAveragePattern.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\CalculateAveragePattern\CalculateAveragePattern\bin\Debug\netcoreapp3.1\CalculateAveragePattern.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\CalculateAveragePattern\CalculateAveragePattern\obj\Debug\netcoreapp3.1\CalculateAveragePattern.csprojAssemblyReference.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\CalculateAveragePattern\CalculateAveragePattern\obj\Debug\netcoreapp3.1\CalculateAveragePattern.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\CalculateAveragePattern\CalculateAveragePattern\obj\Debug\netcoreapp3.1\CalculateAveragePattern.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\CalculateAveragePattern\CalculateAveragePattern\obj\Debug\netcoreapp3.1\CalculateAveragePattern.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\CalculateAveragePattern\CalculateAveragePattern\obj\Debug\netcoreapp3.1\CalculateAveragePattern.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\CalculateAveragePattern\CalculateAveragePattern\obj\Debug\netcoreapp3.1\CalculateAveragePattern.pdb

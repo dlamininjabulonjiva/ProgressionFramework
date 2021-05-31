@@ -1,0 +1,9 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyCollege\MyCollege\bin\Debug\netcoreapp3.1\MyCollege.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyCollege\MyCollege\bin\Debug\netcoreapp3.1\MyCollege.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyCollege\MyCollege\bin\Debug\netcoreapp3.1\MyCollege.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyCollege\MyCollege\obj\Debug\netcoreapp3.1\MyCollege.csprojAssemblyReference.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyCollege\MyCollege\obj\Debug\netcoreapp3.1\MyCollege.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyCollege\MyCollege\obj\Debug\netcoreapp3.1\MyCollege.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyCollege\MyCollege\obj\Debug\netcoreapp3.1\MyCollege.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyCollege\MyCollege\obj\Debug\netcoreapp3.1\MyCollege.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyCollege\MyCollege\obj\Debug\netcoreapp3.1\MyCollege.pdb

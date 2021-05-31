@@ -1,0 +1,9 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Access Modifiers\AccesModifiers\AccesModifiers\bin\Debug\netcoreapp3.1\AccesModifiers.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Access Modifiers\AccesModifiers\AccesModifiers\bin\Debug\netcoreapp3.1\AccesModifiers.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Access Modifiers\AccesModifiers\AccesModifiers\bin\Debug\netcoreapp3.1\AccesModifiers.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Access Modifiers\AccesModifiers\AccesModifiers\obj\Debug\netcoreapp3.1\AccesModifiers.csprojAssemblyReference.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Access Modifiers\AccesModifiers\AccesModifiers\obj\Debug\netcoreapp3.1\AccesModifiers.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Access Modifiers\AccesModifiers\AccesModifiers\obj\Debug\netcoreapp3.1\AccesModifiers.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Access Modifiers\AccesModifiers\AccesModifiers\obj\Debug\netcoreapp3.1\AccesModifiers.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Access Modifiers\AccesModifiers\AccesModifiers\obj\Debug\netcoreapp3.1\AccesModifiers.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Access Modifiers\AccesModifiers\AccesModifiers\obj\Debug\netcoreapp3.1\AccesModifiers.pdb

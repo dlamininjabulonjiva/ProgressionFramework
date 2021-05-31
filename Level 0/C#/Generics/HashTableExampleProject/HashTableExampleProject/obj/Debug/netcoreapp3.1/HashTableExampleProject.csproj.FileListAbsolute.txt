@@ -1,0 +1,13 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\bin\Debug\netcoreapp3.1\HashTableExampleProject.exe
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\bin\Debug\netcoreapp3.1\HashTableExampleProject.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\bin\Debug\netcoreapp3.1\HashTableExampleProject.runtimeconfig.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\bin\Debug\netcoreapp3.1\HashTableExampleProject.runtimeconfig.dev.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\bin\Debug\netcoreapp3.1\HashTableExampleProject.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\bin\Debug\netcoreapp3.1\HashTableExampleProject.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\obj\Debug\netcoreapp3.1\HashTableExampleProject.csprojAssemblyReference.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\obj\Debug\netcoreapp3.1\HashTableExampleProject.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\obj\Debug\netcoreapp3.1\HashTableExampleProject.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\obj\Debug\netcoreapp3.1\HashTableExampleProject.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\obj\Debug\netcoreapp3.1\HashTableExampleProject.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\obj\Debug\netcoreapp3.1\HashTableExampleProject.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\HashTableExampleProject\HashTableExampleProject\obj\Debug\netcoreapp3.1\HashTableExampleProject.genruntimeconfig.cache

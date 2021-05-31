@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Delegates\\BuildInDelegateActionT\\BuildInDelegateActionT.Test\\BuildInDelegateActionT.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Delegates\\BuildInDelegateActionT\\BuildInDelegateActionT.Test\\BuildInDelegateActionT.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Delegates\\BuildInDelegateActionT\\BuildInDelegateActionT.Test\\BuildInDelegateActionT.Test.csproj",
+        "projectName": "BuildInDelegateActionT.Test",
+        "projectPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Delegates\\BuildInDelegateActionT\\BuildInDelegateActionT.Test\\BuildInDelegateActionT.Test.csproj",
+        "packagesPath": "C:\\Users\\njabulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Delegates\\BuildInDelegateActionT\\BuildInDelegateActionT.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\njabulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Delegates\\BuildInDelegateActionT\\BuildInDelegateActionT\\BuildInDelegateActionT.csproj": {
+                "projectPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Delegates\\BuildInDelegateActionT\\BuildInDelegateActionT\\BuildInDelegateActionT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Nunit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "microsoft.net.test.sdk": {
+              "target": "Package",
+              "version": "[16.9.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Delegates\\BuildInDelegateActionT\\BuildInDelegateActionT\\BuildInDelegateActionT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Delegates\\BuildInDelegateActionT\\BuildInDelegateActionT\\BuildInDelegateActionT.csproj",
+        "projectName": "BuildInDelegateActionT",
+        "projectPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Delegates\\BuildInDelegateActionT\\BuildInDelegateActionT\\BuildInDelegateActionT.csproj",
+        "packagesPath": "C:\\Users\\njabulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Delegates\\BuildInDelegateActionT\\BuildInDelegateActionT\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\njabulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

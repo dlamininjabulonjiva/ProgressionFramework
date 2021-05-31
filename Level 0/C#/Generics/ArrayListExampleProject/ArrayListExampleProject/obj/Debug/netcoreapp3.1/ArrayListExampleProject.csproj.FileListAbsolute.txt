@@ -1,0 +1,13 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\bin\Debug\netcoreapp3.1\ArrayListExampleProject.exe
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\bin\Debug\netcoreapp3.1\ArrayListExampleProject.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\bin\Debug\netcoreapp3.1\ArrayListExampleProject.runtimeconfig.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\bin\Debug\netcoreapp3.1\ArrayListExampleProject.runtimeconfig.dev.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\bin\Debug\netcoreapp3.1\ArrayListExampleProject.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\bin\Debug\netcoreapp3.1\ArrayListExampleProject.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\obj\Debug\netcoreapp3.1\ArrayListExampleProject.csprojAssemblyReference.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\obj\Debug\netcoreapp3.1\ArrayListExampleProject.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\obj\Debug\netcoreapp3.1\ArrayListExampleProject.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\obj\Debug\netcoreapp3.1\ArrayListExampleProject.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\obj\Debug\netcoreapp3.1\ArrayListExampleProject.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\obj\Debug\netcoreapp3.1\ArrayListExampleProject.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ArrayListExampleProject\ArrayListExampleProject\obj\Debug\netcoreapp3.1\ArrayListExampleProject.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyDateOfBirth\MyDateOfBirth\bin\Debug\netcoreapp3.1\MyDateOfBirth.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyDateOfBirth\MyDateOfBirth\bin\Debug\netcoreapp3.1\MyDateOfBirth.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyDateOfBirth\MyDateOfBirth\bin\Debug\netcoreapp3.1\MyDateOfBirth.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyDateOfBirth\MyDateOfBirth\obj\Debug\netcoreapp3.1\MyDateOfBirth.csprojAssemblyReference.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyDateOfBirth\MyDateOfBirth\obj\Debug\netcoreapp3.1\MyDateOfBirth.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyDateOfBirth\MyDateOfBirth\obj\Debug\netcoreapp3.1\MyDateOfBirth.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyDateOfBirth\MyDateOfBirth\obj\Debug\netcoreapp3.1\MyDateOfBirth.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyDateOfBirth\MyDateOfBirth\obj\Debug\netcoreapp3.1\MyDateOfBirth.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyDateOfBirth\MyDateOfBirth\obj\Debug\netcoreapp3.1\MyDateOfBirth.pdb

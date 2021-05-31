@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5d8f3440_002Dd122_002D4efb_002Db580_002D979f00a8f5a3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnTheSquareOfANumber" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6786783A-BD2F-491A-898B-584C7BAE296F::.NETCoreApp,Version=v3.1::BuildInDelegateFuncT.Test.TestFuncTDemo.ShouldReturnTheSquareOfANumber&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bd6a3fc9_002D9dae_002D46dc_002Db99c_002D8e318cec9860/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldReturnTheSquareOfANumber #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6786783A-BD2F-491A-898B-584C7BAE296F::.NETCoreApp,Version=v3.1::BuildInDelegateFuncT.Test.TestFuncTDemo&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

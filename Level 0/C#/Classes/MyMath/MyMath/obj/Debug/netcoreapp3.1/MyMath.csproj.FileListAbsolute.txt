@@ -1,0 +1,9 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyMath\MyMath\bin\Debug\netcoreapp3.1\MyMath.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyMath\MyMath\bin\Debug\netcoreapp3.1\MyMath.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyMath\MyMath\bin\Debug\netcoreapp3.1\MyMath.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.csprojAssemblyReference.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Classes\MyMath\MyMath\obj\Debug\netcoreapp3.1\MyMath.pdb

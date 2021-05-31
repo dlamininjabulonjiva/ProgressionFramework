@@ -1,0 +1,9 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\Travel\Travel\bin\Debug\netcoreapp3.1\Travel.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\Travel\Travel\bin\Debug\netcoreapp3.1\Travel.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\Travel\Travel\bin\Debug\netcoreapp3.1\Travel.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\Travel\Travel\obj\Debug\netcoreapp3.1\Travel.csprojAssemblyReference.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\Travel\Travel\obj\Debug\netcoreapp3.1\Travel.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\Travel\Travel\obj\Debug\netcoreapp3.1\Travel.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\Travel\Travel\obj\Debug\netcoreapp3.1\Travel.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\Travel\Travel\obj\Debug\netcoreapp3.1\Travel.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\Travel\Travel\obj\Debug\netcoreapp3.1\Travel.pdb

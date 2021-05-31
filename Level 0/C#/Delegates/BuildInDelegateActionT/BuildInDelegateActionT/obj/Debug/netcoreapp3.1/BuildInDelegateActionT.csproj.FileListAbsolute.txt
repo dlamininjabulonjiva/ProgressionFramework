@@ -1,0 +1,9 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Delegates\BuildInDelegateActionT\BuildInDelegateActionT\bin\Debug\netcoreapp3.1\BuildInDelegateActionT.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Delegates\BuildInDelegateActionT\BuildInDelegateActionT\bin\Debug\netcoreapp3.1\BuildInDelegateActionT.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Delegates\BuildInDelegateActionT\BuildInDelegateActionT\bin\Debug\netcoreapp3.1\BuildInDelegateActionT.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Delegates\BuildInDelegateActionT\BuildInDelegateActionT\obj\Debug\netcoreapp3.1\BuildInDelegateActionT.csprojAssemblyReference.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Delegates\BuildInDelegateActionT\BuildInDelegateActionT\obj\Debug\netcoreapp3.1\BuildInDelegateActionT.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Delegates\BuildInDelegateActionT\BuildInDelegateActionT\obj\Debug\netcoreapp3.1\BuildInDelegateActionT.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Delegates\BuildInDelegateActionT\BuildInDelegateActionT\obj\Debug\netcoreapp3.1\BuildInDelegateActionT.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Delegates\BuildInDelegateActionT\BuildInDelegateActionT\obj\Debug\netcoreapp3.1\BuildInDelegateActionT.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Delegates\BuildInDelegateActionT\BuildInDelegateActionT\obj\Debug\netcoreapp3.1\BuildInDelegateActionT.pdb

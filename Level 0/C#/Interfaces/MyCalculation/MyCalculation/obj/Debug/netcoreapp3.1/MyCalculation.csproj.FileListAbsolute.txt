@@ -1,0 +1,9 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyCalculation\MyCalculation\bin\Debug\netcoreapp3.1\MyCalculation.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyCalculation\MyCalculation\bin\Debug\netcoreapp3.1\MyCalculation.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyCalculation\MyCalculation\bin\Debug\netcoreapp3.1\MyCalculation.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyCalculation\MyCalculation\obj\Debug\netcoreapp3.1\MyCalculation.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyCalculation\MyCalculation\obj\Debug\netcoreapp3.1\MyCalculation.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyCalculation\MyCalculation\obj\Debug\netcoreapp3.1\MyCalculation.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyCalculation\MyCalculation\obj\Debug\netcoreapp3.1\MyCalculation.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyCalculation\MyCalculation\obj\Debug\netcoreapp3.1\MyCalculation.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Interfaces\MyCalculation\MyCalculation\obj\Debug\netcoreapp3.1\MyCalculation.csprojAssemblyReference.cache

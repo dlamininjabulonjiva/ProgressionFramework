@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.net.test.sdk" Version="16.9.1" />
+    <PackageReference Include="nunit" Version="3.13.1" />
+    <PackageReference Include="Nunit3TestAdapter" Version="3.17.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BuildInDelegateActionT\BuildInDelegateActionT.csproj" />
+  </ItemGroup>
+
+</Project>

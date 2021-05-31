@@ -1,0 +1,13 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\bin\Debug\netcoreapp3.1\MyAnimal.exe
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\bin\Debug\netcoreapp3.1\MyAnimal.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\bin\Debug\netcoreapp3.1\MyAnimal.runtimeconfig.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\bin\Debug\netcoreapp3.1\MyAnimal.runtimeconfig.dev.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\bin\Debug\netcoreapp3.1\MyAnimal.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\bin\Debug\netcoreapp3.1\MyAnimal.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.csprojAssemblyReference.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\MyAnimal\MyAnimal\obj\Debug\netcoreapp3.1\MyAnimal.genruntimeconfig.cache

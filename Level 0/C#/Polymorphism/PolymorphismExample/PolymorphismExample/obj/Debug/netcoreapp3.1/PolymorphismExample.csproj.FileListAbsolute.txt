@@ -1,0 +1,13 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\bin\Debug\netcoreapp3.1\PolymorphismExample.exe
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\bin\Debug\netcoreapp3.1\PolymorphismExample.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\bin\Debug\netcoreapp3.1\PolymorphismExample.runtimeconfig.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\bin\Debug\netcoreapp3.1\PolymorphismExample.runtimeconfig.dev.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\bin\Debug\netcoreapp3.1\PolymorphismExample.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\bin\Debug\netcoreapp3.1\PolymorphismExample.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\obj\Debug\netcoreapp3.1\PolymorphismExample.csprojAssemblyReference.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\obj\Debug\netcoreapp3.1\PolymorphismExample.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\obj\Debug\netcoreapp3.1\PolymorphismExample.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\obj\Debug\netcoreapp3.1\PolymorphismExample.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\obj\Debug\netcoreapp3.1\PolymorphismExample.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\obj\Debug\netcoreapp3.1\PolymorphismExample.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Polymorphism\PolymorphismExample\PolymorphismExample\obj\Debug\netcoreapp3.1\PolymorphismExample.genruntimeconfig.cache

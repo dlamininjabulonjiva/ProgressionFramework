@@ -1,0 +1,13 @@
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\bin\Debug\netcoreapp3.1\ListTExampleProject.exe
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\bin\Debug\netcoreapp3.1\ListTExampleProject.deps.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\bin\Debug\netcoreapp3.1\ListTExampleProject.runtimeconfig.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\bin\Debug\netcoreapp3.1\ListTExampleProject.runtimeconfig.dev.json
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\bin\Debug\netcoreapp3.1\ListTExampleProject.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\bin\Debug\netcoreapp3.1\ListTExampleProject.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\obj\Debug\netcoreapp3.1\ListTExampleProject.csprojAssemblyReference.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\obj\Debug\netcoreapp3.1\ListTExampleProject.AssemblyInfoInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\obj\Debug\netcoreapp3.1\ListTExampleProject.AssemblyInfo.cs
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\obj\Debug\netcoreapp3.1\ListTExampleProject.csproj.CoreCompileInputs.cache
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\obj\Debug\netcoreapp3.1\ListTExampleProject.dll
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\obj\Debug\netcoreapp3.1\ListTExampleProject.pdb
+C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\ListTExampleProject\ListTExampleProject\obj\Debug\netcoreapp3.1\ListTExampleProject.genruntimeconfig.cache
