@@ -22,7 +22,7 @@ namespace StringCalculatorKata.Test
     }
 
     [Test]
-    public void Given1Numbers_ShouldReturnSameNumber()
+    public void Given1Number_ShouldReturnSameNumber()
     {
       // Arrange
       const string input = "5";
@@ -35,7 +35,7 @@ namespace StringCalculatorKata.Test
     }
 
     [Test]
-    public void GivenNumbersCommaDelimited_ShouldReturnBeSummed()
+    public void GivenNumbersCommaDelimited_ShouldBeSummed()
     {
       // Arrange
       const string input = "5,10";
@@ -48,7 +48,7 @@ namespace StringCalculatorKata.Test
     }
 
     [Test]
-    public void GivenNumbersNewLineDelimited_ShouldReturnBeSummed()
+    public void GivenNumbersNewLineDelimited_ShouldBeSummed()
     {
       // Arrange
       const string input = "11\n13";
@@ -61,7 +61,7 @@ namespace StringCalculatorKata.Test
     }
 
     [Test]
-    public void GivenNumbersDelimitedAnyway_ShouldReturnBeSummed()
+    public void GivenNumbersDelimitedAnyway_ShouldBeSummed()
     {
       // Arrange
       const string input = "11\n13,2%4";

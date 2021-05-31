@@ -4925,11 +4925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Practise\\Kata\\Live\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj",
+      "projectUniqueName": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj",
       "projectName": "StringCalculatorKata.Test",
-      "projectPath": "C:\\Development\\Practise\\Kata\\Live\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj",
+      "projectPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj",
       "packagesPath": "C:\\Users\\njabulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Practise\\Kata\\Live\\StringCalculatorKata\\StringCalculatorKata.Test\\obj\\",
+      "outputPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4949,8 +4949,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Development\\Practise\\Kata\\Live\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj": {
-              "projectPath": "C:\\Development\\Practise\\Kata\\Live\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj"
+            "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj": {
+              "projectPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj"
             }
           }
         }

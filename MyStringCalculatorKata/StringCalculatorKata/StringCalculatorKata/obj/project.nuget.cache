@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FDJydCI8mMRDvncaH7/EGB6GTJDoR+IP3Dlbb6ucmH/uJWQ1SP+ins6zVh7xObAMbeYqdOsfFvwVsZvZqgkp7g==",
+  "dgSpecHash": "yFAjdyixgY0SHvJMPw6pZSpALu0U8s7MLL46FaIpLOVHJ6sNDzebJsKQ/QOFYGOXcEmZ7UkLf/Kl+iiFqcOXwg==",
   "success": true,
-  "projectFilePath": "C:\\Development\\Practise\\Kata\\Live\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj",
+  "projectFilePath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

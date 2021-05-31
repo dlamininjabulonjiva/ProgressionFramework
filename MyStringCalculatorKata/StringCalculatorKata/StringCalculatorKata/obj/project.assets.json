@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Practise\\Kata\\Live\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj",
+      "projectUniqueName": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj",
       "projectName": "StringCalculatorKata",
-      "projectPath": "C:\\Development\\Practise\\Kata\\Live\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj",
+      "projectPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj",
       "packagesPath": "C:\\Users\\njabulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\Practise\\Kata\\Live\\StringCalculatorKata\\StringCalculatorKata\\obj\\",
+      "outputPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
