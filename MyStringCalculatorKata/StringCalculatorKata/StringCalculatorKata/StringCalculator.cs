@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace StringCalculatorKata
 {
@@ -14,36 +15,15 @@ namespace StringCalculatorKata
         return 0;
       }
 
-      return numbers.Length > 1 ? GetSum(numbers) : ConvertStringToInt(input);
-    }
+      var filteredNumbers = numbers.Select(int.Parse).Where(number => number < 1000).ToList();
+      var negativeNumbers = filteredNumbers.Where(number => number < 0);
 
-    private static int GetSum(IEnumerable<string> numbers)
-    {
-      var sum = 0;
-
-      foreach (var number in numbers)
-      {
-        if (ConvertStringToInt(number) > 1000)
-        {
-          continue;
-        }
-
-        sum += ConvertStringToInt(number);
-      }
-
-      return sum;
-    }
-
-    private static int ConvertStringToInt(string input)
-    {
-      var num = int.Parse(input);
-
-      if (num < 0)
+      if (negativeNumbers.Any())
       {
         throw new InvalidOperationException("Negatives not allowed");
       }
 
-      return num;
+      return filteredNumbers.Count() > 1 ? filteredNumbers.Sum() : int.Parse(input);
     }
   }
 }
