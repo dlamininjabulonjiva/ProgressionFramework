@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\Travel\\Travel\\Travel.csproj": {}
+    "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\Travel\\Travel\\Travel.csproj": {}
   },
   "projects": {
-    "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\Travel\\Travel\\Travel.csproj": {
+    "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\Travel\\Travel\\Travel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\Travel\\Travel\\Travel.csproj",
+        "projectUniqueName": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\Travel\\Travel\\Travel.csproj",
         "projectName": "Travel",
-        "projectPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\Travel\\Travel\\Travel.csproj",
+        "projectPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\Travel\\Travel\\Travel.csproj",
         "packagesPath": "C:\\Users\\njabulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\Travel\\Travel\\obj\\",
+        "outputPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\Travel\\Travel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

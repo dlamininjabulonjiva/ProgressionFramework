@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\MyCalculation\\MyCalculation\\MyCalculation.csproj",
+      "projectUniqueName": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\MyCalculation\\MyCalculation\\MyCalculation.csproj",
       "projectName": "MyCalculation",
-      "projectPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\MyCalculation\\MyCalculation\\MyCalculation.csproj",
+      "projectPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\MyCalculation\\MyCalculation\\MyCalculation.csproj",
       "packagesPath": "C:\\Users\\njabulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\MyCalculation\\MyCalculation\\obj\\",
+      "outputPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\MyCalculation\\MyCalculation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

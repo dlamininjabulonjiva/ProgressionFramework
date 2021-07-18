@@ -7,7 +7,7 @@
   <ItemGroup>
     <PackageReference Include="microsoft.net.test.sdk" Version="16.10.0" />
     <PackageReference Include="nunit" Version="3.13.2" />
-    <PackageReference Include="Nunit3TestAdapter" Version="3.17.0" />
+    <PackageReference Include="Nunit3TestAdapter" Version="4.0.0" />
   </ItemGroup>
 
   <ItemGroup>
