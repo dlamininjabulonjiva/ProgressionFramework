@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XcC6OWmeYyhDOwIvayc3hDf0sN/FcZbk/qisTU3YF/+VnbR2rFe3PAc3ecvRqlZt3V3LYy/iabsNNZL+zv+4Dg==",
+  "dgSpecHash": "rGAFND9JS5/XK7ozu12bomzIo3+cMq89+j8fpqsJFNGwrN6I7ITi0ypO9R+q3yr50IjnBtXstXn+VMZfpIzKNw==",
   "success": true,
-  "projectFilePath": "C:\\Development\\Practise\\Kata\\Full Version\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj",
+  "projectFilePath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\New Version\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\njabulo\\.nuget\\packages\\microsoft.codecoverage\\16.10.0\\microsoft.codecoverage.16.10.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

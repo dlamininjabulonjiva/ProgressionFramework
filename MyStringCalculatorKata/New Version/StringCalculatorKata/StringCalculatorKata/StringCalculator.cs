@@ -22,13 +22,13 @@ namespace StringCalculatorKata
       }
 
       var numbers = input.Split(_separators.ToArray(), StringSplitOptions.RemoveEmptyEntries);
-      var filteredNumbers = numbers.Select(int.Parse).Where(number => number < 1000).ToList();
-      GetNegativeNumbers(filteredNumbers);
+      var filteredNumbers = numbers.Select(int.Parse).Where(number => number <= 1000).ToList();
+      CheckForNegativeNumbers(filteredNumbers);
 
       return filteredNumbers.Sum();
     }
 
-    private static void GetNegativeNumbers(IEnumerable<int> filteredNumbers)
+    private static void CheckForNegativeNumbers(IEnumerable<int> filteredNumbers)
     {
       var negativeNumbers = filteredNumbers.Where(number => number < 0);
 

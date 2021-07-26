@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Practise\\Kata\\Full Version\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj": {}
+    "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\New Version\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Practise\\Kata\\Full Version\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj": {
+    "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\New Version\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Practise\\Kata\\Full Version\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj",
+        "projectUniqueName": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\New Version\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj",
         "projectName": "StringCalculatorKata.Test",
-        "projectPath": "C:\\Development\\Practise\\Kata\\Full Version\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj",
+        "projectPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\New Version\\StringCalculatorKata\\StringCalculatorKata.Test\\StringCalculatorKata.Test.csproj",
         "packagesPath": "C:\\Users\\njabulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Practise\\Kata\\Full Version\\StringCalculatorKata\\StringCalculatorKata.Test\\obj\\",
+        "outputPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\New Version\\StringCalculatorKata\\StringCalculatorKata.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Development\\Practise\\Kata\\Full Version\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj": {
-                "projectPath": "C:\\Development\\Practise\\Kata\\Full Version\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj"
+              "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\New Version\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj": {
+                "projectPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\New Version\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Development\\Practise\\Kata\\Full Version\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj": {
+    "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\New Version\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Practise\\Kata\\Full Version\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj",
+        "projectUniqueName": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\New Version\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj",
         "projectName": "StringCalculatorKata",
-        "projectPath": "C:\\Development\\Practise\\Kata\\Full Version\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj",
+        "projectPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\New Version\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj",
         "packagesPath": "C:\\Users\\njabulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Practise\\Kata\\Full Version\\StringCalculatorKata\\StringCalculatorKata\\obj\\",
+        "outputPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\MyStringCalculatorKata\\New Version\\StringCalculatorKata\\StringCalculatorKata\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
