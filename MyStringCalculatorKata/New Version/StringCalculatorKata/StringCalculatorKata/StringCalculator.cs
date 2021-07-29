@@ -46,10 +46,7 @@ namespace StringCalculatorKata
       input = input.Substring(customSeparator.Length, input.Length - customSeparator.Length);
       var allCustomSeparators = customSeparator.Split(customSeparators, StringSplitOptions.RemoveEmptyEntries);
 
-      foreach (var sep in allCustomSeparators)
-      {
-        _separators.Add(sep);
-      }
+      _separators.AddRange(allCustomSeparators);
 
       return input;
     }

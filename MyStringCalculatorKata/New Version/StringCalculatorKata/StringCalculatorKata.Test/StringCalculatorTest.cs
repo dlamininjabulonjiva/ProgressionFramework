@@ -22,7 +22,7 @@ namespace StringCalculatorKata.Test
     }
 
     [Test]
-    public void Given1Numbers_ShouldReturnSameNumber()
+    public void Given1Number_ShouldReturnSameNumber()
     {
       // Arrange
       const string input = "5";
