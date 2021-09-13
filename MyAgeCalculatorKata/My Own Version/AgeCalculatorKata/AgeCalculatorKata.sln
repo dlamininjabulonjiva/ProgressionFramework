@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculatorKata", "AgeCalculatorKata\AgeCalculatorKata.csproj", "{187B5E4A-2793-40ED-9662-76D6736340E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculatorKata.Test", "AgeCalculatorKata.Test\AgeCalculatorKata.Test.csproj", "{2F202E07-6519-432E-B83A-8170C5CA74E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187B5E4A-2793-40ED-9662-76D6736340E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187B5E4A-2793-40ED-9662-76D6736340E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187B5E4A-2793-40ED-9662-76D6736340E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187B5E4A-2793-40ED-9662-76D6736340E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F202E07-6519-432E-B83A-8170C5CA74E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F202E07-6519-432E-B83A-8170C5CA74E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F202E07-6519-432E-B83A-8170C5CA74E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F202E07-6519-432E-B83A-8170C5CA74E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C8C09F-7FF4-4050-86FD-2769EEE7658F}
+	EndGlobalSection
+EndGlobal
