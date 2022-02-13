@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Generics\\DictionaryExampleProject\\DictionaryExampleProject\\DictionaryExampleProject.csproj",
+      "projectUniqueName": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Generics\\DictionaryExampleProject\\DictionaryExampleProject\\DictionaryExampleProject.csproj",
       "projectName": "DictionaryExampleProject",
-      "projectPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Generics\\DictionaryExampleProject\\DictionaryExampleProject\\DictionaryExampleProject.csproj",
+      "projectPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Generics\\DictionaryExampleProject\\DictionaryExampleProject\\DictionaryExampleProject.csproj",
       "packagesPath": "C:\\Users\\njabulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Generics\\DictionaryExampleProject\\DictionaryExampleProject\\obj\\",
+      "outputPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Generics\\DictionaryExampleProject\\DictionaryExampleProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

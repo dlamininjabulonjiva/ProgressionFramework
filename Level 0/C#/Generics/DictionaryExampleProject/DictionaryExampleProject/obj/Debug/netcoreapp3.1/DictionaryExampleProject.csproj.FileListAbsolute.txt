@@ -11,3 +11,17 @@ C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\DictionaryExamplePro
 C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\DictionaryExampleProject\DictionaryExampleProject\obj\Debug\netcoreapp3.1\DictionaryExampleProject.dll
 C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\DictionaryExampleProject\DictionaryExampleProject\obj\Debug\netcoreapp3.1\DictionaryExampleProject.pdb
 C:\Development\MyRepository\MyPracticeWork\Level 0\Generics\DictionaryExampleProject\DictionaryExampleProject\obj\Debug\netcoreapp3.1\DictionaryExampleProject.genruntimeconfig.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\bin\Debug\netcoreapp3.1\DictionaryExampleProject.exe
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\bin\Debug\netcoreapp3.1\DictionaryExampleProject.deps.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\bin\Debug\netcoreapp3.1\DictionaryExampleProject.runtimeconfig.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\bin\Debug\netcoreapp3.1\DictionaryExampleProject.runtimeconfig.dev.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\bin\Debug\netcoreapp3.1\DictionaryExampleProject.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\bin\Debug\netcoreapp3.1\DictionaryExampleProject.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\obj\Debug\netcoreapp3.1\DictionaryExampleProject.csproj.AssemblyReference.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\obj\Debug\netcoreapp3.1\DictionaryExampleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\obj\Debug\netcoreapp3.1\DictionaryExampleProject.AssemblyInfoInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\obj\Debug\netcoreapp3.1\DictionaryExampleProject.AssemblyInfo.cs
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\obj\Debug\netcoreapp3.1\DictionaryExampleProject.csproj.CoreCompileInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\obj\Debug\netcoreapp3.1\DictionaryExampleProject.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\obj\Debug\netcoreapp3.1\DictionaryExampleProject.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 0\C#\Generics\DictionaryExampleProject\DictionaryExampleProject\obj\Debug\netcoreapp3.1\DictionaryExampleProject.genruntimeconfig.cache
