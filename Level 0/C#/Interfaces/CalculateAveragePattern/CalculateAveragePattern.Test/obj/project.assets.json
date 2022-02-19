@@ -2293,7 +2293,7 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
+      "sha512": "LE/oChpRvkSi3U25u0KnJcI44JeDZ1QJCyN4qFDx2uusEypdqR24w7lKYw21eYe5esuCBuc862wRmpF63Yy1KQ==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
@@ -2535,7 +2535,7 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
+      "sha512": "HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
@@ -4553,7 +4553,7 @@
       ]
     },
     "System.Threading.ThreadPool/4.3.0": {
-      "sha512": "k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
+      "sha512": "SrCOmTvvOOCmJT4BBxdZcwhz6XEMsjBGZvGSVorOxdCznaUNeVotEjDfXGIZ8gcGo00qgPbTV6puHDgcFYl6Iw==",
       "type": "package",
       "path": "system.threading.threadpool/4.3.0",
       "files": [
@@ -4866,11 +4866,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern.Test\\CalculateAveragePattern.Test.csproj",
+      "projectUniqueName": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern.Test\\CalculateAveragePattern.Test.csproj",
       "projectName": "CalculateAveragePattern.Test",
-      "projectPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern.Test\\CalculateAveragePattern.Test.csproj",
+      "projectPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern.Test\\CalculateAveragePattern.Test.csproj",
       "packagesPath": "C:\\Users\\njabulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern.Test\\obj\\",
+      "outputPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4890,8 +4890,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\CalculateAveragePattern.csproj": {
-              "projectPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\CalculateAveragePattern.csproj"
+            "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\CalculateAveragePattern.csproj": {
+              "projectPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\CalculateAveragePattern.csproj"
             }
           }
         }
@@ -4934,7 +4934,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

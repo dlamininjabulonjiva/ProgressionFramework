@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\CalculateAveragePattern.csproj": {}
+    "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\CalculateAveragePattern.csproj": {}
   },
   "projects": {
-    "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\CalculateAveragePattern.csproj": {
+    "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\CalculateAveragePattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\CalculateAveragePattern.csproj",
+        "projectUniqueName": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\CalculateAveragePattern.csproj",
         "projectName": "CalculateAveragePattern",
-        "projectPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\CalculateAveragePattern.csproj",
+        "projectPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\CalculateAveragePattern.csproj",
         "packagesPath": "C:\\Users\\njabulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\MyRepository\\MyPracticeWork\\Level 0\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\obj\\",
+        "outputPath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\CalculateAveragePattern\\CalculateAveragePattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

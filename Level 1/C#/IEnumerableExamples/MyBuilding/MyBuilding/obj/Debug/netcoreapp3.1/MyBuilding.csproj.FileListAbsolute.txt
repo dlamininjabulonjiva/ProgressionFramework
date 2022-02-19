@@ -1,0 +1,10 @@
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\C#\IEnumerableExamples\MyBuilding\MyBuilding\bin\Debug\netcoreapp3.1\MyBuilding.deps.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\C#\IEnumerableExamples\MyBuilding\MyBuilding\bin\Debug\netcoreapp3.1\MyBuilding.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\C#\IEnumerableExamples\MyBuilding\MyBuilding\bin\Debug\netcoreapp3.1\MyBuilding.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\C#\IEnumerableExamples\MyBuilding\MyBuilding\obj\Debug\netcoreapp3.1\MyBuilding.csproj.AssemblyReference.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\C#\IEnumerableExamples\MyBuilding\MyBuilding\obj\Debug\netcoreapp3.1\MyBuilding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\C#\IEnumerableExamples\MyBuilding\MyBuilding\obj\Debug\netcoreapp3.1\MyBuilding.AssemblyInfoInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\C#\IEnumerableExamples\MyBuilding\MyBuilding\obj\Debug\netcoreapp3.1\MyBuilding.AssemblyInfo.cs
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\C#\IEnumerableExamples\MyBuilding\MyBuilding\obj\Debug\netcoreapp3.1\MyBuilding.csproj.CoreCompileInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\C#\IEnumerableExamples\MyBuilding\MyBuilding\obj\Debug\netcoreapp3.1\MyBuilding.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\C#\IEnumerableExamples\MyBuilding\MyBuilding\obj\Debug\netcoreapp3.1\MyBuilding.pdb
