@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace MyBuilding.UseCases
 {
@@ -11,15 +12,15 @@ namespace MyBuilding.UseCases
       _buildingProvider = buildingProvider;
     }
 
-    public IEnumerable<Building> Execute()
+    public async Task<IEnumerable<Building>> Execute()
     {
-      var buildings = _buildingProvider.GetAllBuildings();
+      var buildings = await _buildingProvider.GetAllBuildings();
       return buildings;
     }
   }
 
   public interface IGetAllBuildings
   {
-    IEnumerable<Building> Execute();
+    Task<IEnumerable<Building>> Execute();
   }
 }

@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
+using FluentAssertions;
 using MyBuilding.TestInfrastructure.Builders;
 using MyBuilding.UseCases;
 using NSubstitute;
@@ -14,21 +16,20 @@ namespace MyBuilding.Tests.UseCases
     public class Execute
     {
       [Test]
-      public void GivenNoBuildingsFound_ShouldReturnEmptyList()
+      public async Task GivenNoBuildingsFound_ShouldReturnEmptyList()
       {
         // Arrange
-        var expectedBuildings = new List<Building>();
         var buildingProvider = Substitute.For<IProvideBuilding>();
-        buildingProvider.GetAllBuildings().Returns(expectedBuildings);
+        buildingProvider.GetAllBuildings().Returns(new List<Building>());
         var sut = CreateSut(buildingProvider: buildingProvider);
         // Act
-        var actual = sut.Execute();
+        var actual = await sut.Execute();
         // Assert
-        Assert.AreEqual(expectedBuildings, actual);
+        actual.Should().BeEquivalentTo(new List<Building>());
       }
 
       [Test]
-      public void GivenBuildingsFound_ShouldReturnAllTheBuildings()
+      public async Task GivenBuildingsFound_ShouldReturnAllTheBuildings()
       {
         // Arrange
         var buildingAddress1 = new BuildingAddressTestDataBuilder()
@@ -64,9 +65,9 @@ namespace MyBuilding.Tests.UseCases
 
         var sut = CreateSut(buildingProvider: buildingProvider);
         // Act
-        var actual = sut.Execute();
+        var actual = await sut.Execute();
         // Assert
-        Assert.AreEqual(expectedBuildings, actual);
+        actual.Should().BeEquivalentTo(expectedBuildings);
       }
     }
 
