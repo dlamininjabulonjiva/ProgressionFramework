@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using FluentAssertions;
-using MyBuilding.TestInfrastructure;
 using MyBuilding.TestInfrastructure.Builders;
 using MyBuilding.UseCases;
 using NSubstitute;
@@ -22,7 +21,7 @@ namespace MyBuilding.Tests.UseCases
         // Arrange
         var sut = CreateSut();
         // Act
-        Func<Task> action = async () => await sut.Execute(null).ToArrayAsync();
+        Func<Task> action = async () => await sut.Execute(null);
         // Assert
         action.Should().Throw<ArgumentNullException>().Which.ParamName.Should().Be("request");
       }
@@ -81,7 +80,7 @@ namespace MyBuilding.Tests.UseCases
 
         var sut = CreateSut(provideBuildings: buildingProvider);
         // Act
-        var actual = await sut.Execute(request).ToArrayAsync();
+        var actual = await sut.Execute(request);
         // Assert
         actual.Should().BeEmpty();
       }
@@ -148,7 +147,7 @@ namespace MyBuilding.Tests.UseCases
 
         var sut = CreateSut(provideBuildings: provideBuildings);
         // Act
-        var actual = await sut.Execute(request).ToArrayAsync();
+        var actual = await sut.Execute(request);
         // Assert
         actual.Should().BeEquivalentTo(expectedBuildings);
       }

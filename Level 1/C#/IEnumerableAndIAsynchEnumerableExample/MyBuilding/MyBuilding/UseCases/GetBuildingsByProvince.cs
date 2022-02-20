@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace MyBuilding.UseCases
 {
-  public class GetBuildingsByProvince
+  public class GetBuildingsByProvince: IGetBuildingsByProvince
   {
     private readonly IProvideBuilding _provideBuildings;
 
@@ -14,7 +15,7 @@ namespace MyBuilding.UseCases
       _provideBuildings = provideBuildings;
     }
 
-    public async IAsyncEnumerable<Building> Execute(GetBuildingsByProvinceRequest request)
+    public async Task<IEnumerable<Building>> Execute(GetBuildingsByProvinceRequest request)
     {
       if (request == null)
       {
@@ -24,11 +25,13 @@ namespace MyBuilding.UseCases
       var buildings = await _provideBuildings.GetAllBuildings();
       var filteredBuildings = buildings.Where(b => b.BuildingAddress.Province == request.Province);
 
-      foreach (var filteredBuilding in filteredBuildings)
-      {
-        yield return filteredBuilding;
-      }
+      return filteredBuildings;
     }
+  }
+
+  public interface IGetBuildingsByProvince
+  {
+    Task<IEnumerable<Building>> Execute(GetBuildingsByProvinceRequest request);
   }
 
   public class GetBuildingsByProvinceRequest

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using FluentAssertions;
+using MyBuilding.TestInfrastructure;
 using MyBuilding.TestInfrastructure.Builders;
 using MyBuilding.UseCases;
 using NSubstitute;
@@ -23,7 +24,7 @@ namespace MyBuilding.Tests.UseCases
         buildingProvider.GetAllBuildings().Returns(new List<Building>());
         var sut = CreateSut(provideBuildings: buildingProvider);
         // Act
-        var actual = await sut.Execute();
+        var actual = await sut.Execute().ToArrayAsync();
         // Assert
         actual.Should().BeEquivalentTo(new List<Building>());
       }
@@ -65,7 +66,7 @@ namespace MyBuilding.Tests.UseCases
 
         var sut = CreateSut(provideBuildings: provideBuildings);
         // Act
-        var actual = await sut.Execute();
+        var actual = await sut.Execute().ToArrayAsync();
         // Assert
         actual.Should().BeEquivalentTo(expectedBuildings);
       }

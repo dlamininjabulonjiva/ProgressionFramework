@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace MyBuilding.UseCases
 {
@@ -13,15 +12,17 @@ namespace MyBuilding.UseCases
       _buildingProvider = provideBuildings;
     }
 
-    public async Task<IEnumerable<Building>> Execute()
+    public async IAsyncEnumerable<Building> Execute()
     {
-      var buildings = await _buildingProvider.GetAllBuildings();
-      return buildings;
+      foreach (var building in await _buildingProvider.GetAllBuildings())
+      {
+        yield return building;
+      }
     }
   }
 
   public interface IGetAllBuildings
   {
-    Task<IEnumerable<Building>> Execute();
+    IAsyncEnumerable<Building> Execute();
   }
 }
