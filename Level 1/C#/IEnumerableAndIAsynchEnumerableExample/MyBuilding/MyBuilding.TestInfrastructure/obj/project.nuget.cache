@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AJVohODXbbPyXQiZy1VPnav3LLXt/A5Hq98dVFkTLjSwIsy/KReQREhkHKMUBcGCKymDTMXm1UO7iIJM9ubkQw==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 1\\C#\\IEnumerableAndIAsynchEnumerableExample\\MyBuilding\\MyBuilding.TestInfrastructure\\MyBuilding.TestInfrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\njabulo\\.nuget\\packages\\bogus\\34.0.1\\bogus.34.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
