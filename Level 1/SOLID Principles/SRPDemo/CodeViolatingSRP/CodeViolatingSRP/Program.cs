@@ -1,4 +1,6 @@
-﻿namespace CodeViolatingSRP
+﻿using CodeViolatingSRP.Accounts;
+
+namespace CodeViolatingSRP
 {
     public class Program
     {
@@ -13,6 +15,9 @@
 
             Console.Write("What is your last name: ");
             user.LastName = Console.ReadLine();
+
+            Console.Write("What is your id number: ");
+            user.IdNumber = Console.ReadLine();
 
             // Checks to be sure the first and last names are valid
             if (string.IsNullOrWhiteSpace(user.FirstName))
@@ -29,8 +34,20 @@
                 return;
             }
 
-            // Create a username for the person
-            Console.WriteLine($"Your username is { user.FirstName.Substring(0, 1) }{ user.LastName }");
+            // Create account
+            var random = new Random();
+
+            var account = new Account()
+            {
+                Username = user.FirstName?.Substring(0, 1) + user.LastName,
+                IdNumber = user.IdNumber,
+                Password = user.FirstName + user.FirstName?.Length,
+                OpeningBalance = random.Next(100, 15000)
+            };
+
+            // Display account details
+            Console.WriteLine($"Username: { account.Username} Password: { account.Password}" +
+                              $" Id Number: { account.IdNumber } Opening Balance: { account.OpeningBalance } ");
 
             Console.ReadLine();
         }

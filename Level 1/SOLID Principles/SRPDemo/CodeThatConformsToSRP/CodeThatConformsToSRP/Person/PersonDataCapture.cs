@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CodeThatConformsToSRP.Person
 {
     public class PersonDataCapture
     {
-        public static Person Capture()
+        public Person Capture()
         {
             // Ask for user information
             var user = new Person();
@@ -18,6 +14,9 @@ namespace CodeThatConformsToSRP.Person
 
             Console.Write("What is your last name: ");
             user.LastName = Console.ReadLine();
+
+            Console.Write("What is your id number: ");
+            user.IdNumber = Console.ReadLine();
 
             return user;
         }

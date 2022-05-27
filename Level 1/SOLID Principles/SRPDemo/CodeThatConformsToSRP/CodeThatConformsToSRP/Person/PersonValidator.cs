@@ -4,18 +4,26 @@ namespace CodeThatConformsToSRP.Person
 {
     public class PersonValidator
     {
-        public static bool Validate(Person person)
+        public bool Validate(Person person)
         {
+            var standardMessages = new StandardMessages();
+
             // Checks to be sure the first and last names are valid
             if (string.IsNullOrWhiteSpace(person.FirstName))
             {
-                StandardMessages.DisplayValidationError("first name");
+                standardMessages.DisplayValidationError("first name");
                 return false;
             }
 
             if (string.IsNullOrWhiteSpace(person.LastName))
             {
-                StandardMessages.DisplayValidationError("last name");
+                standardMessages.DisplayValidationError("last name");
+                return false;
+            }
+
+            if (string.IsNullOrWhiteSpace(person.IdNumber))
+            {
+                standardMessages.DisplayValidationError("id number");
                 return false;
             }
 

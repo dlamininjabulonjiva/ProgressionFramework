@@ -8,21 +8,28 @@ namespace CodeThatConformsToSRP
     {
         public static void Main(string[] args)
         {
-            StandardMessages.WelcomeMessage();
+            var standardMessages = new StandardMessages();
+            standardMessages.WelcomeMessage();
 
-            var user = PersonDataCapture.Capture();
+            var personDataCapture = new PersonDataCapture();
+            var user = personDataCapture.Capture();
 
-            var isUserValid = PersonValidator.Validate(user);
+            var personValidator = new PersonValidator();
+            var isUserValid = personValidator.Validate(user);
 
             if (!isUserValid)
             {
-                StandardMessages.EndApplication();
+                standardMessages.EndApplication();
                 return;
             }
 
-            AccountGenerator.CreatePersonUsername(user);
+            var accountGenerator = new AccountGenerator();
+            var account = accountGenerator.Create(user);
 
-            StandardMessages.EndApplication();
+            var accountDetails = new AccountDetails();
+            accountDetails.DisplayAccountDetails(account);
+
+            standardMessages.EndApplication();
         }
     }
 }

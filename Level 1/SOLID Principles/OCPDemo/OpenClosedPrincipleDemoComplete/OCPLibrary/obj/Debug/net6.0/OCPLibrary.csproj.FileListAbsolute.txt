@@ -1,0 +1,12 @@
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\OCPDemo\OpenClosedPrincipleDemoComplete\OCPLibrary\bin\Debug\net6.0\OCPLibrary.deps.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\OCPDemo\OpenClosedPrincipleDemoComplete\OCPLibrary\bin\Debug\net6.0\OCPLibrary.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\OCPDemo\OpenClosedPrincipleDemoComplete\OCPLibrary\bin\Debug\net6.0\OCPLibrary.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\OCPDemo\OpenClosedPrincipleDemoComplete\OCPLibrary\obj\Debug\net6.0\OCPLibrary.csproj.AssemblyReference.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\OCPDemo\OpenClosedPrincipleDemoComplete\OCPLibrary\obj\Debug\net6.0\OCPLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\OCPDemo\OpenClosedPrincipleDemoComplete\OCPLibrary\obj\Debug\net6.0\OCPLibrary.AssemblyInfoInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\OCPDemo\OpenClosedPrincipleDemoComplete\OCPLibrary\obj\Debug\net6.0\OCPLibrary.AssemblyInfo.cs
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\OCPDemo\OpenClosedPrincipleDemoComplete\OCPLibrary\obj\Debug\net6.0\OCPLibrary.csproj.CoreCompileInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\OCPDemo\OpenClosedPrincipleDemoComplete\OCPLibrary\obj\Debug\net6.0\OCPLibrary.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\OCPDemo\OpenClosedPrincipleDemoComplete\OCPLibrary\obj\Debug\net6.0\refint\OCPLibrary.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\OCPDemo\OpenClosedPrincipleDemoComplete\OCPLibrary\obj\Debug\net6.0\OCPLibrary.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\OCPDemo\OpenClosedPrincipleDemoComplete\OCPLibrary\obj\Debug\net6.0\ref\OCPLibrary.dll
