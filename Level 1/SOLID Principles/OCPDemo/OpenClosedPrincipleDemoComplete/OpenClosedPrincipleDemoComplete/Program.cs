@@ -15,7 +15,7 @@ namespace OpenClosedPrincipleDemoComplete
 
             foreach (var employee in allEmployees)
             {
-                employees.DisplayEmployeDetails(employee);
+                employees.DisplayEmployeeDetails(employee);
             }
 
             var standardMessages = new StandardMessages();

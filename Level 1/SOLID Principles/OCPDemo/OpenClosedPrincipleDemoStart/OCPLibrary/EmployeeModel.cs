@@ -8,7 +8,5 @@ namespace OCPLibrary
         public string? LastName { get; set; }
         public string? EmailAddress { get; set; }
         public string? Password { get; set; }
-        public bool IsManager { get; set; } = false;
-        public bool IsExecutive { get; set; } = false;
     }
 }

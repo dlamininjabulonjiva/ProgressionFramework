@@ -16,7 +16,7 @@ namespace OCPLibrary.Employees
             return employees;
         }
 
-        public void DisplayEmployeDetails(EmployeeModel employee)
+        public void DisplayEmployeeDetails(EmployeeModel employee)
         {
             Console.WriteLine($"{employee.FirstName} {employee.LastName}: {employee.EmailAddress}" +
                               $" IsManager: {employee.IsManager} IsExecutive: {employee.IsExecutive} Password: {employee.Password}");

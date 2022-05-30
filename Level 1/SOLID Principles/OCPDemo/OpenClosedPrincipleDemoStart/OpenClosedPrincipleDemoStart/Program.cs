@@ -23,8 +23,7 @@ namespace OpenClosedPrincipleDemoStart
 
             foreach (var employee in employees)
             {
-                Console.WriteLine($"{ employee.FirstName } { employee.LastName }: { employee.EmailAddress }" +
-                                  $" IsManager: { employee.IsManager } IsExecutive: { employee.IsExecutive } Password: {employee.Password}");
+                Console.WriteLine($"{ employee.FirstName } { employee.LastName }: { employee.EmailAddress } Password: {employee.Password}");
             }
 
             Console.ReadLine();
