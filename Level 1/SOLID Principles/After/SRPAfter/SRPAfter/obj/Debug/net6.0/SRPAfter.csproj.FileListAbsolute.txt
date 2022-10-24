@@ -1,0 +1,15 @@
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\bin\Debug\net6.0\SRPAfter.exe
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\bin\Debug\net6.0\SRPAfter.deps.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\bin\Debug\net6.0\SRPAfter.runtimeconfig.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\bin\Debug\net6.0\SRPAfter.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\bin\Debug\net6.0\SRPAfter.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\obj\Debug\net6.0\SRPAfter.csproj.AssemblyReference.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\obj\Debug\net6.0\SRPAfter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\obj\Debug\net6.0\SRPAfter.AssemblyInfoInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\obj\Debug\net6.0\SRPAfter.AssemblyInfo.cs
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\obj\Debug\net6.0\SRPAfter.csproj.CoreCompileInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\obj\Debug\net6.0\SRPAfter.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\obj\Debug\net6.0\refint\SRPAfter.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\obj\Debug\net6.0\SRPAfter.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\obj\Debug\net6.0\SRPAfter.genruntimeconfig.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\After\SRPAfter\SRPAfter\obj\Debug\net6.0\ref\SRPAfter.dll

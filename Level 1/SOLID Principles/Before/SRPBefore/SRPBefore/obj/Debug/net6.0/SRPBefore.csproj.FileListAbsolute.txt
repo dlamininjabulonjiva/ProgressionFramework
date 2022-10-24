@@ -1,0 +1,15 @@
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\bin\Debug\net6.0\SRPBefore.exe
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\bin\Debug\net6.0\SRPBefore.deps.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\bin\Debug\net6.0\SRPBefore.runtimeconfig.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\bin\Debug\net6.0\SRPBefore.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\bin\Debug\net6.0\SRPBefore.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\obj\Debug\net6.0\SRPBefore.csproj.AssemblyReference.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\obj\Debug\net6.0\SRPBefore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\obj\Debug\net6.0\SRPBefore.AssemblyInfoInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\obj\Debug\net6.0\SRPBefore.AssemblyInfo.cs
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\obj\Debug\net6.0\SRPBefore.csproj.CoreCompileInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\obj\Debug\net6.0\SRPBefore.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\obj\Debug\net6.0\refint\SRPBefore.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\obj\Debug\net6.0\SRPBefore.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\obj\Debug\net6.0\SRPBefore.genruntimeconfig.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 1\SOLID Principles\Before\SRPBefore\SRPBefore\obj\Debug\net6.0\ref\SRPBefore.dll
