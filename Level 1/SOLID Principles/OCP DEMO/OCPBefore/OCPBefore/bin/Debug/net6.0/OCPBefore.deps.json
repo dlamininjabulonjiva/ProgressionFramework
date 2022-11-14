@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OCPBefore/1.0.0": {
+        "runtime": {
+          "OCPBefore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OCPBefore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
