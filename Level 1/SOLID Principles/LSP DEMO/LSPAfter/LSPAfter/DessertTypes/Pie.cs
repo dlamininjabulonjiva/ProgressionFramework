@@ -1,10 +1,10 @@
-﻿using LSPAfter.DessertCategories;
+﻿using System;
 
 namespace LSPAfter.DessertTypes
 {
-    public class Pie: HotDessert
+    public class Pie: IHotDessert
     {
-        public override void CalculateCalories(int grams)
+        public void CalculateCalories(int grams)
         {
             Console.WriteLine("Total calories " + grams * 25);
         }

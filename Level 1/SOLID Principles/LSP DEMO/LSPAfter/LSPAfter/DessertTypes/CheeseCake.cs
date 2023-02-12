@@ -1,15 +1,15 @@
-﻿using LSPAfter.DessertCategories;
+﻿using System;
 
 namespace LSPAfter.DessertTypes
 {
-    public class CheeseCake: FrozenDessert
+    public class CheeseCake: IFrozenDessert
     {
-        public override void CalculateCalories(int grams)
+        public void CalculateCalories(int grams)
         {
             Console.WriteLine("Total calories " + grams * 20);
         }
 
-        public override void GetRoomTemperatureMeltingPoint()
+        public void GetRoomTemperatureMeltingPoint()
         {
             Console.WriteLine("Melting room temperature is 30 degrees celcius");
         }
