@@ -2,7 +2,7 @@
 
 namespace LSPAfter
 {
-    public interface IHotDessert
+    public interface IDessert
     {
         void CalculateCalories(int grams);
     }

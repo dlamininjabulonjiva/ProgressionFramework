@@ -2,7 +2,7 @@
 
 namespace LSPAfter.DessertTypes
 {
-    public class Pie: IHotDessert
+    public class MincePie: IDessert
     {
         public void CalculateCalories(int grams)
         {

@@ -2,9 +2,8 @@
 
 namespace LSPAfter
 {
-    public interface IFrozenDessert
+    public interface IFrozenDessert: IDessert
     {
-        void CalculateCalories(int grams);
         void GetRoomTemperatureMeltingPoint();
     }
 }

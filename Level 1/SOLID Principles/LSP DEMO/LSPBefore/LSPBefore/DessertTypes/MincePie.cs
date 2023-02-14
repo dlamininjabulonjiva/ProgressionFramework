@@ -1,6 +1,6 @@
 ﻿namespace LSPBefore.DessertTypes
 {
-    public class Pie: Dessert
+    public class MincePie: Dessert
     {
         public override void CalculateCalories(int grams)
         {

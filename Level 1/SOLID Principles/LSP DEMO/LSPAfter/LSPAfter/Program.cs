@@ -35,7 +35,7 @@ namespace LSPAfter
         public static void PrintPieDessert()
         {
             Console.WriteLine("Subclass -> Pie Dessert's output.....");
-            var dessert = new Pie();
+            var dessert = new MincePie();
             dessert.CalculateCalories(2);
 
             Console.WriteLine("");

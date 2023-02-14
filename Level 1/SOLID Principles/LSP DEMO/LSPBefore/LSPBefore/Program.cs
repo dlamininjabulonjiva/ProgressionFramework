@@ -14,7 +14,7 @@ namespace LSPBefore
             PrintCheeseCakeDessert();
 
             //GetRoomTemperatureMeltingPoint method breaks on the Pie subclass which violets the Liskov Substitution Principle 
-            PrintPieDessert();
+            PrintMincePieDessert();
         }
 
         public static void PrintDessert()
@@ -47,10 +47,10 @@ namespace LSPBefore
             Console.WriteLine("");
         }
 
-        public static void PrintPieDessert()
+        public static void PrintMincePieDessert()
         {
-            Console.WriteLine("Subclass -> Pie Dessert's output.....");
-            var dessert = new Pie();
+            Console.WriteLine("Subclass -> Mince Pie Dessert's output.....");
+            var dessert = new MincePie();
             dessert.CalculateCalories(2);
             dessert.GetRoomTemperatureMeltingPoint();
 
