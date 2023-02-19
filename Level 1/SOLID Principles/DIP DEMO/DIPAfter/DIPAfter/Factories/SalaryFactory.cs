@@ -1,6 +1,7 @@
 ﻿using System;
+using DIPAfter.Salaries;
 
-namespace DIPAfter
+namespace DIPAfter.Factories
 {
     public class SalaryFactory
     {

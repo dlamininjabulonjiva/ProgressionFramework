@@ -1,4 +1,4 @@
-﻿namespace DIPAfter;
+﻿namespace DIPAfter.Salaries;
 
 public class NetSalary: ISalary
 {

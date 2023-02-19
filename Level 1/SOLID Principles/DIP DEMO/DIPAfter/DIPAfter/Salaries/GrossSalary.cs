@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DIPAfter
+namespace DIPAfter.Salaries
 {
     public class GrossSalary: ISalary
     {

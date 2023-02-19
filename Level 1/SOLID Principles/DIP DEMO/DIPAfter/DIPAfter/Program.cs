@@ -1,4 +1,6 @@
-﻿namespace DIPAfter
+﻿using DIPAfter.Factories;
+
+namespace DIPAfter
 {
     public class Program
     {
