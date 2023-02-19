@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPAfter", "DIPAfter\DIPAfter.csproj", "{9AC60249-BD53-4D71-A7F4-59D0CACB216F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC60249-BD53-4D71-A7F4-59D0CACB216F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC60249-BD53-4D71-A7F4-59D0CACB216F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC60249-BD53-4D71-A7F4-59D0CACB216F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC60249-BD53-4D71-A7F4-59D0CACB216F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E9CEBC1-2578-4F9E-B9BD-CE0471F9BACA}
+	EndGlobalSection
+EndGlobal
