@@ -1,0 +1,7 @@
+C:\Development\ProgressionFramework\Level 2\Data Structures\TreeDataStructure\bin\Debug\TreeDataStructure.exe
+C:\Development\ProgressionFramework\Level 2\Data Structures\TreeDataStructure\bin\Debug\TreeDataStructure.pdb
+C:\Development\ProgressionFramework\Level 2\Data Structures\TreeDataStructure\obj\Debug\TreeDataStructure.csproj.AssemblyReference.cache
+C:\Development\ProgressionFramework\Level 2\Data Structures\TreeDataStructure\obj\Debug\TreeDataStructure.csproj.SuggestedBindingRedirects.cache
+C:\Development\ProgressionFramework\Level 2\Data Structures\TreeDataStructure\obj\Debug\TreeDataStructure.csproj.CoreCompileInputs.cache
+C:\Development\ProgressionFramework\Level 2\Data Structures\TreeDataStructure\obj\Debug\TreeDataStructure.exe
+C:\Development\ProgressionFramework\Level 2\Data Structures\TreeDataStructure\obj\Debug\TreeDataStructure.pdb

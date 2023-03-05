@@ -1,0 +1,15 @@
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\bin\Debug\net6.0\SortAlgorithms.exe
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\bin\Debug\net6.0\SortAlgorithms.deps.json
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\bin\Debug\net6.0\SortAlgorithms.runtimeconfig.json
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\bin\Debug\net6.0\SortAlgorithms.dll
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\bin\Debug\net6.0\SortAlgorithms.pdb
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\obj\Debug\net6.0\SortAlgorithms.csproj.AssemblyReference.cache
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\obj\Debug\net6.0\SortAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\obj\Debug\net6.0\SortAlgorithms.AssemblyInfoInputs.cache
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\obj\Debug\net6.0\SortAlgorithms.AssemblyInfo.cs
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\obj\Debug\net6.0\SortAlgorithms.csproj.CoreCompileInputs.cache
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\obj\Debug\net6.0\SortAlgorithms.dll
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\obj\Debug\net6.0\refint\SortAlgorithms.dll
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\obj\Debug\net6.0\SortAlgorithms.pdb
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\obj\Debug\net6.0\SortAlgorithms.genruntimeconfig.cache
+C:\Development\ProgressionFramework\Level 2\Algorithm\Sort\SortAlgorithms\SortAlgorithms\obj\Debug\net6.0\ref\SortAlgorithms.dll
