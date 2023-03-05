@@ -1,0 +1,15 @@
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\bin\Debug\net6.0\MyBaking.exe
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\bin\Debug\net6.0\MyBaking.deps.json
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\bin\Debug\net6.0\MyBaking.runtimeconfig.json
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\bin\Debug\net6.0\MyBaking.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\bin\Debug\net6.0\MyBaking.pdb
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\obj\Debug\net6.0\MyBaking.csproj.AssemblyReference.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\obj\Debug\net6.0\MyBaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\obj\Debug\net6.0\MyBaking.AssemblyInfoInputs.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\obj\Debug\net6.0\MyBaking.AssemblyInfo.cs
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\obj\Debug\net6.0\MyBaking.csproj.CoreCompileInputs.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\obj\Debug\net6.0\MyBaking.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\obj\Debug\net6.0\refint\MyBaking.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\obj\Debug\net6.0\MyBaking.pdb
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\obj\Debug\net6.0\MyBaking.genruntimeconfig.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Factory Pattern\MyBaking\MyBaking\obj\Debug\net6.0\ref\MyBaking.dll
