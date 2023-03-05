@@ -1,0 +1,15 @@
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\bin\Debug\net6.0\MVCExample.exe
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\bin\Debug\net6.0\MVCExample.deps.json
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\bin\Debug\net6.0\MVCExample.runtimeconfig.json
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\bin\Debug\net6.0\MVCExample.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\bin\Debug\net6.0\MVCExample.pdb
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\obj\Debug\net6.0\MVCExample.csproj.AssemblyReference.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\obj\Debug\net6.0\MVCExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\obj\Debug\net6.0\MVCExample.AssemblyInfoInputs.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\obj\Debug\net6.0\MVCExample.AssemblyInfo.cs
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\obj\Debug\net6.0\MVCExample.csproj.CoreCompileInputs.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\obj\Debug\net6.0\MVCExample.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\obj\Debug\net6.0\refint\MVCExample.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\obj\Debug\net6.0\MVCExample.pdb
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\obj\Debug\net6.0\MVCExample.genruntimeconfig.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\MVC Pattern\MVCExample\MVCExample\obj\Debug\net6.0\ref\MVCExample.dll
