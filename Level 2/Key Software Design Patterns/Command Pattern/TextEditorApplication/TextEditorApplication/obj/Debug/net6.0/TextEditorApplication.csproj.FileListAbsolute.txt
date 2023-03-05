@@ -1,0 +1,15 @@
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\bin\Debug\net6.0\TextEditorApplication.exe
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\bin\Debug\net6.0\TextEditorApplication.deps.json
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\bin\Debug\net6.0\TextEditorApplication.runtimeconfig.json
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\bin\Debug\net6.0\TextEditorApplication.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\bin\Debug\net6.0\TextEditorApplication.pdb
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\obj\Debug\net6.0\TextEditorApplication.csproj.AssemblyReference.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\obj\Debug\net6.0\TextEditorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\obj\Debug\net6.0\TextEditorApplication.AssemblyInfoInputs.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\obj\Debug\net6.0\TextEditorApplication.AssemblyInfo.cs
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\obj\Debug\net6.0\TextEditorApplication.csproj.CoreCompileInputs.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\obj\Debug\net6.0\TextEditorApplication.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\obj\Debug\net6.0\refint\TextEditorApplication.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\obj\Debug\net6.0\TextEditorApplication.pdb
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\obj\Debug\net6.0\TextEditorApplication.genruntimeconfig.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Command Pattern\TextEditorApplication\TextEditorApplication\obj\Debug\net6.0\ref\TextEditorApplication.dll
