@@ -1,0 +1,15 @@
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\bin\Debug\net6.0\FinancialApplication.exe
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\bin\Debug\net6.0\FinancialApplication.deps.json
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\bin\Debug\net6.0\FinancialApplication.runtimeconfig.json
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\bin\Debug\net6.0\FinancialApplication.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\bin\Debug\net6.0\FinancialApplication.pdb
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\obj\Debug\net6.0\FinancialApplication.csproj.AssemblyReference.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\obj\Debug\net6.0\FinancialApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\obj\Debug\net6.0\FinancialApplication.AssemblyInfoInputs.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\obj\Debug\net6.0\FinancialApplication.AssemblyInfo.cs
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\obj\Debug\net6.0\FinancialApplication.csproj.CoreCompileInputs.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\obj\Debug\net6.0\FinancialApplication.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\obj\Debug\net6.0\refint\FinancialApplication.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\obj\Debug\net6.0\FinancialApplication.pdb
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\obj\Debug\net6.0\FinancialApplication.genruntimeconfig.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Strategy Pattern\FinancialApplication\FinancialApplication\obj\Debug\net6.0\ref\FinancialApplication.dll
