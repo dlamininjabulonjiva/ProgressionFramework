@@ -4,7 +4,7 @@ It is useful in situations where the request needs to be queued, logged, undoabl
 In the Command pattern, the command itself is a separate class that encapsulates the method invocation, along with its parameters and context.
 The invoker class is responsible for executing the command and possibly queuing or logging it. The receiver class is the object that actually performs the operation.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 In this example, I have a TextEditor class that represents the receiver object. It has two methods: SetText and GetText, which set and get the text of the editor, respectively.
 
 The ICommand interface defines the Execute and Undo methods. The SetTextCommand class is a concrete command that implements the ICommand interface.
