@@ -1,0 +1,15 @@
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\bin\Debug\net6.0\CarApplication.exe
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\bin\Debug\net6.0\CarApplication.deps.json
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\bin\Debug\net6.0\CarApplication.runtimeconfig.json
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\bin\Debug\net6.0\CarApplication.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\bin\Debug\net6.0\CarApplication.pdb
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\obj\Debug\net6.0\CarApplication.csproj.AssemblyReference.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\obj\Debug\net6.0\CarApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\obj\Debug\net6.0\CarApplication.AssemblyInfoInputs.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\obj\Debug\net6.0\CarApplication.AssemblyInfo.cs
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\obj\Debug\net6.0\CarApplication.csproj.CoreCompileInputs.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\obj\Debug\net6.0\CarApplication.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\obj\Debug\net6.0\refint\CarApplication.dll
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\obj\Debug\net6.0\CarApplication.pdb
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\obj\Debug\net6.0\CarApplication.genruntimeconfig.cache
+C:\Development\ProgressionFramework\Level 2\Key Software Design Patterns\Decorator Pattern\CarApplication\CarApplication\obj\Debug\net6.0\ref\CarApplication.dll
