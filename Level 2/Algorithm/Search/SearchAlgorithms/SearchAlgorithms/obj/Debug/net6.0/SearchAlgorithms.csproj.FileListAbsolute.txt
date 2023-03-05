@@ -1,0 +1,15 @@
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\bin\Debug\net6.0\SearchAlgorithms.exe
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\bin\Debug\net6.0\SearchAlgorithms.deps.json
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\bin\Debug\net6.0\SearchAlgorithms.runtimeconfig.json
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\bin\Debug\net6.0\SearchAlgorithms.dll
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\bin\Debug\net6.0\SearchAlgorithms.pdb
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.csproj.AssemblyReference.cache
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.AssemblyInfoInputs.cache
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.AssemblyInfo.cs
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.csproj.CoreCompileInputs.cache
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.dll
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\obj\Debug\net6.0\refint\SearchAlgorithms.dll
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.pdb
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\obj\Debug\net6.0\SearchAlgorithms.genruntimeconfig.cache
+C:\Development\ProgressionFramework\Level 2\Algorithm\Search\SearchAlgorithms\SearchAlgorithms\obj\Debug\net6.0\ref\SearchAlgorithms.dll
