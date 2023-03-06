@@ -1,0 +1,15 @@
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\bin\Debug\net6.0\ReflectionExampleCSharp.exe
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\bin\Debug\net6.0\ReflectionExampleCSharp.deps.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\bin\Debug\net6.0\ReflectionExampleCSharp.runtimeconfig.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\bin\Debug\net6.0\ReflectionExampleCSharp.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\bin\Debug\net6.0\ReflectionExampleCSharp.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\obj\Debug\net6.0\ReflectionExampleCSharp.csproj.AssemblyReference.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\obj\Debug\net6.0\ReflectionExampleCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\obj\Debug\net6.0\ReflectionExampleCSharp.AssemblyInfoInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\obj\Debug\net6.0\ReflectionExampleCSharp.AssemblyInfo.cs
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\obj\Debug\net6.0\ReflectionExampleCSharp.csproj.CoreCompileInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\obj\Debug\net6.0\ReflectionExampleCSharp.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\obj\Debug\net6.0\refint\ReflectionExampleCSharp.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\obj\Debug\net6.0\ReflectionExampleCSharp.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\obj\Debug\net6.0\ReflectionExampleCSharp.genruntimeconfig.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\ReflectionExampleCSharp\ReflectionExampleCSharp\obj\Debug\net6.0\ref\ReflectionExampleCSharp.dll
