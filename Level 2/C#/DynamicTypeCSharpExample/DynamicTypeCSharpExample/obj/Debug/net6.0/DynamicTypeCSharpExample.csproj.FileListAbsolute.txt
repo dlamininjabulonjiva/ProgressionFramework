@@ -1,0 +1,15 @@
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\bin\Debug\net6.0\DynamicTypeCSharpExample.exe
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\bin\Debug\net6.0\DynamicTypeCSharpExample.deps.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\bin\Debug\net6.0\DynamicTypeCSharpExample.runtimeconfig.json
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\bin\Debug\net6.0\DynamicTypeCSharpExample.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\bin\Debug\net6.0\DynamicTypeCSharpExample.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\obj\Debug\net6.0\DynamicTypeCSharpExample.csproj.AssemblyReference.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\obj\Debug\net6.0\DynamicTypeCSharpExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\obj\Debug\net6.0\DynamicTypeCSharpExample.AssemblyInfoInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\obj\Debug\net6.0\DynamicTypeCSharpExample.AssemblyInfo.cs
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\obj\Debug\net6.0\DynamicTypeCSharpExample.csproj.CoreCompileInputs.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\obj\Debug\net6.0\DynamicTypeCSharpExample.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\obj\Debug\net6.0\refint\DynamicTypeCSharpExample.dll
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\obj\Debug\net6.0\DynamicTypeCSharpExample.pdb
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\obj\Debug\net6.0\DynamicTypeCSharpExample.genruntimeconfig.cache
+C:\Development\MyChillisoftProgressionStuff\ProgressionFramework\Level 2\C#\DynamicTypeCSharpExample\DynamicTypeCSharpExample\obj\Debug\net6.0\ref\DynamicTypeCSharpExample.dll
