@@ -5,10 +5,6 @@ class Person {
       this.friends = [];
     }
   
-    greet() {
-      return `Hello, my name is ${this.name} and I am ${this.age} years old.`;
-    }
-  
     addFriend(friend) {
       if (this.friends.indexOf(friend) === -1) {
         this.friends.push(friend);
