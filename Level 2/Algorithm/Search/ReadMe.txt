@@ -1,4 +1,4 @@
-inary search and linear search are two commonly used algorithms for searching an element in a list of elements.
+Binary search and linear search are two commonly used algorithms for searching an element in a list of elements.
 
 Linear Search:
 Linear search is a simple search algorithm that checks each element of the list in sequence until a match is found.
