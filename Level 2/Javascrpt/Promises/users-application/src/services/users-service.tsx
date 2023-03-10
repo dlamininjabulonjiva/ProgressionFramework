@@ -5,7 +5,7 @@ export const getUserData = async (): Promise<User[]> => {
       fetch('https://jsonplaceholder.typicode.com/users')
         .then(response => response.json())
         .then(users => {
-          const userArray = users.map((user: any) => ({
+          const userArray = users.map((user: User) => ({
             id: user.id,
             name: user.name,
             email: user.email,
