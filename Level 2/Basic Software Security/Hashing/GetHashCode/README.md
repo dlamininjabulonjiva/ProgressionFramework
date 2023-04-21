@@ -1,5 +1,5 @@
 # Overriding Gethashcode and equals on system.object
-In the example, I defined a custom class Person with two properties(Name and Age). I overrode the Equals and GetHashCode methods to compare Person objects based on their Name and Age properties.
+In this example, I defined a custom class Person with two properties(Name and Age). I overrode the Equals and GetHashCode methods to compare Person objects based on their Name and Age properties.
 I also wrote unit tests to verify that my hash code and equality methods work correctly.
 
 # Equals Method
