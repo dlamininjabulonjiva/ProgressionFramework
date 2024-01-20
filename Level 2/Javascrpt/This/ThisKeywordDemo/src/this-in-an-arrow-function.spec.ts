@@ -26,11 +26,11 @@ describe('this in an arrow function', () => {
         this.payload = { id: '123' }
 
         const getPayload = function () {
-        return this.payload
+            return this.payload
         }
 
         const getActualPayload = () => {
-        return this.payload
+            return this.payload
         }
         // Act
         const payload = getPayload()

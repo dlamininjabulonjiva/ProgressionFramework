@@ -5,9 +5,9 @@ const carDetails = {
     price: 1180000,
     quantity: 3,
     description: function () {
-      return `${this.quantity} ${this.color} ${this.brand} car(s) at ${this.price} rands`;
+      return `${this.quantity} ${this.color} ${this.brand} car(s) at ${this.price} rands`
     },
-};
+}
   
 describe('this in an object', () => {
     it('can reference property values from within the object', () => {
