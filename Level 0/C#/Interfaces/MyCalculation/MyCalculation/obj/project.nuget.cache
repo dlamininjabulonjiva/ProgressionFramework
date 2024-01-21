@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7NL1icBHBT0udIZwrz38UtP+xaXzxe+zZ/EzJRHgZ1CLgacO7CXP0tj4XRsvbP6ZdCYGrYweVwzjVfArpLoCLg==",
+  "dgSpecHash": "OVIx/OtknJ7qQti7FmSoh1+fg6CdGdZ50xwK8OGSnK0lkjEn57fwB0uSCKklpZ7oxzYhSfmZuzk/ovybNtUn6Q==",
   "success": true,
-  "projectFilePath": "C:\\Development\\MyChillisoftProgressionStuff\\ProgressionFramework\\Level 0\\C#\\Interfaces\\MyCalculation\\MyCalculation\\MyCalculation.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Development\\ProgressionFramework\\Level 0\\C#\\Interfaces\\MyCalculation\\MyCalculation\\MyCalculation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
