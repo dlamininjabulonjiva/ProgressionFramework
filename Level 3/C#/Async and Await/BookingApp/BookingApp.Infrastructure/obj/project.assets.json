@@ -27,26 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Njabulo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Infrastructure\\BookingApp.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Development\\Progression\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Infrastructure\\BookingApp.Infrastructure.csproj",
       "projectName": "BookingApp.Infrastructure",
-      "projectPath": "C:\\Development\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Infrastructure\\BookingApp.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Infrastructure\\obj\\",
+      "projectPath": "C:\\Development\\Progression\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Infrastructure\\BookingApp.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Njabulo\\.nuget\\packages\\",
+      "outputPath": "C:\\Development\\Progression\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Njabulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Development\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core\\BookingApp.Core.csproj": {
-              "projectPath": "C:\\Development\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core\\BookingApp.Core.csproj"
+            "C:\\Development\\Progression\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core\\BookingApp.Core.csproj": {
+              "projectPath": "C:\\Development\\Progression\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core\\BookingApp.Core.csproj"
             }
           }
         }
@@ -81,7 +74,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -90,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

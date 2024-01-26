@@ -8,10 +8,14 @@
           "System.Diagnostics.EventLog": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/Castle.Core.dll": {}
+          "lib/net6.0/Castle.Core.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Castle.Core.dll": {}
+          "lib/net6.0/Castle.Core.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.CodeCoverage/17.8.0": {
@@ -158,7 +162,9 @@
           "lib/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll": {},
           "lib/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll": {},
           "lib/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll": {},
-          "lib/netcoreapp3.1/testhost.dll": {}
+          "lib/netcoreapp3.1/testhost.dll": {
+            "related": ".deps.json"
+          }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll": {},
@@ -168,7 +174,9 @@
           "lib/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll": {},
           "lib/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll": {},
           "lib/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll": {},
-          "lib/netcoreapp3.1/testhost.dll": {}
+          "lib/netcoreapp3.1/testhost.dll": {
+            "related": ".deps.json"
+          }
         },
         "resource": {
           "lib/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll": {
@@ -296,10 +304,14 @@
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "NSubstitute/5.1.0": {
@@ -308,10 +320,14 @@
           "Castle.Core": "5.1.1"
         },
         "compile": {
-          "lib/net6.0/NSubstitute.dll": {}
+          "lib/net6.0/NSubstitute.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/NSubstitute.dll": {}
+          "lib/net6.0/NSubstitute.dll": {
+            "related": ".xml"
+          }
         }
       },
       "NuGet.Frameworks/6.5.0": {
@@ -326,12 +342,20 @@
       "NUnit/4.0.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/nunit.framework.dll": {},
-          "lib/net6.0/nunit.framework.legacy.dll": {}
+          "lib/net6.0/nunit.framework.dll": {
+            "related": ".legacy.xml;.xml"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/nunit.framework.dll": {},
-          "lib/net6.0/nunit.framework.legacy.dll": {}
+          "lib/net6.0/nunit.framework.dll": {
+            "related": ".legacy.xml;.xml"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "build/NUnit.props": {}
@@ -346,10 +370,14 @@
       "System.Diagnostics.EventLog/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/System.Diagnostics.EventLog.dll": {}
+          "lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.Diagnostics.EventLog.dll": {}
+          "lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -368,10 +396,14 @@
       "System.Reflection.Metadata/1.6.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/System.Reflection.Metadata.dll": {}
+          "lib/netstandard2.0/System.Reflection.Metadata.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/System.Reflection.Metadata.dll": {}
+          "lib/netstandard2.0/System.Reflection.Metadata.dll": {
+            "related": ".xml"
+          }
         }
       },
       "BookingApp.Core/1.0.0": {
@@ -870,26 +902,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Njabulo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core.Test\\BookingApp.Core.Test.csproj",
+      "projectUniqueName": "C:\\Development\\Progression\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core.Test\\BookingApp.Core.Test.csproj",
       "projectName": "BookingApp.Core.Test",
-      "projectPath": "C:\\Development\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core.Test\\BookingApp.Core.Test.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core.Test\\obj\\",
+      "projectPath": "C:\\Development\\Progression\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core.Test\\BookingApp.Core.Test.csproj",
+      "packagesPath": "C:\\Users\\Njabulo\\.nuget\\packages\\",
+      "outputPath": "C:\\Development\\Progression\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core.Test\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Njabulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -903,11 +928,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Development\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core\\BookingApp.Core.csproj": {
-              "projectPath": "C:\\Development\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core\\BookingApp.Core.csproj"
+            "C:\\Development\\Progression\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core\\BookingApp.Core.csproj": {
+              "projectPath": "C:\\Development\\Progression\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Core\\BookingApp.Core.csproj"
             },
-            "C:\\Development\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Infrastructure\\BookingApp.Infrastructure.csproj": {
-              "projectPath": "C:\\Development\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Infrastructure\\BookingApp.Infrastructure.csproj"
+            "C:\\Development\\Progression\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Infrastructure\\BookingApp.Infrastructure.csproj": {
+              "projectPath": "C:\\Development\\Progression\\ProgressionFramework\\Level 3\\C#\\Async and Await\\BookingApp\\BookingApp.Infrastructure\\BookingApp.Infrastructure.csproj"
             }
           }
         }
@@ -945,7 +970,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -954,7 +980,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
